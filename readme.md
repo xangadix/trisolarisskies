@@ -1,13 +1,13 @@
-tl;dr You are standing on a planet, encircling three stars dancing in a Three-body problem.
-Not unlike Alpha Centauri. And not unlike the book The Three-Body Problem by Liu Cixin.
+tl;dr You are standing on a planet and are encircled by three stars dancing in a "Three-body problem".
+The star system is not unlike Alpha Centauri. And the whole setting is not unlike the book "The Three-Body Problem" by Liu Cixin.
 
-Before you read this:
+### Before you read this:
 
-Be Adviced:
+### Be Adviced:
 This won't make a lot of Sense unless you've read the Three-Body Experiment by ...
 The following contains * SPOILERS *
 
-Here is the part without spoiling to much.
+### Here is the part without spoiling to much.
 
 You're looking at a star-system containing three stars in close proximity. Not unlike
 https://en.wikipedia.org/wiki/Alpha_Centauri Alpha Centauri, our closest galactic neighbor.
