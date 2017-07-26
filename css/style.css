@@ -1,0 +1,124 @@
+body {
+  /* background-color: #050544;*/
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,050544+59 */
+  background: rgb(0,0,0); /* Old browsers */
+  background: -moz-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(5,5,68,1) 59%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(0,0,0,1) 0%,rgba(5,5,68,1) 59%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(5,5,68,1) 59%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#050544',GradientType=0 ); /* IE6-9 */
+
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#stats {
+  font-family: monospace;
+  font-size: 9px;
+  color: #f5f5f5;
+  margin: 10px;
+  position: absolute;
+  height: 0;
+  font-size: 12px;
+  left: 0;
+  white-space: pre;
+}
+
+#stats2 {
+  font-family: monospace;
+  font-size: 9px;
+  color: #f5f5f5;
+  margin: 10px;
+  position: absolute;
+  height: 0;
+  font-size: 12px;
+  right: 0;
+  text-align: right;
+  white-space: pre;
+}
+
+.star, .planet {
+  font-weight: 800;
+  font-size: 12px;
+  color: #001100;
+  padding: 2px 1px 1px 4px;
+}
+
+.centauri_a {
+  background-color: #ffddcc;
+}
+.centauri_b {
+  background-color: #ffffdd;
+}
+.proxima {
+  background-color: #fdbaba;
+}
+
+.trisolaris {
+  background-color: #99554a;
+}
+
+.planet_overlay {
+  background-image: url(../img/planetary.png);
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-size: 100% 100%;
+  z-index: 9;
+}
+
+.header {
+  background-color: #f5f5f5;
+  color: #000;
+}
+
+#atmosphere1 {
+  background-color: #ffddcc;
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ba8283+0,ffddcc+58 */
+  background: rgb(186,130,131); /* Old browsers */
+  background: -moz-linear-gradient(top, rgba(186,130,131,1) 0%, rgba(255,221,204,1) 58%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(186,130,131,1) 0%,rgba(255,221,204,1) 58%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(186,130,131,1) 0%,rgba(255,221,204,1) 58%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ba8283', endColorstr='#ffddcc',GradientType=0 ); /* IE6-9 */
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0;
+}
+
+#atmosphere2 {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5481a5+0,ffffdd+58 */
+  background: rgb(84,129,165); /* Old browsers */
+  background: -moz-linear-gradient(top, rgba(84,129,165,1) 0%, rgba(255,255,221,1) 58%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(84,129,165,1) 0%,rgba(255,255,221,1) 58%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(84,129,165,1) 0%,rgba(255,255,221,1) 58%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5481a5', endColorstr='#ffffdd',GradientType=0 ); /* IE6-9 */
+
+  background-color: #ffffdd;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0;
+}
+
+#cloudlayer {
+
+}
+
+h1 small, h2 small {
+  font-size: 12px;
+  line-height: 8px;
+  white-space: pre;
+  font-weight: 900;
+  color: white;
+
+}
