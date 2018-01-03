@@ -9,7 +9,7 @@ load _index.html_ and enjoy.
 
 # demo
 
-[Demo available by clicking this blue text](labs.sense-studios.com/threebody/index.html)
+[Demo available by clicking this blue text](http://labs.sense-studios.com/threebody/index.html)
 
 really, just click it.
 
