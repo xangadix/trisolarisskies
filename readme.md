@@ -1,11 +1,23 @@
 tl;dr You are standing on a planet and are encircled by three stars dancing in a "Three-body problem".
 The star system is not unlike Alpha Centauri. And the whole setting is not unlike the book "The Three-Body Problem" by Liu Cixin.
 
-### Before you read this:
+# installation
 
-### Be Adviced:
-This won't make a lot of Sense unless you've read the Three-Body Experiment by ...
-The following contains * SPOILERS *
+download the repository. Upload everything to your webserver, and move it somewhere you can access it through a browser /var/www/ or wherever.
+
+load _index.html_ and enjoy.
+
+# demo
+
+[Demo available by clicking this blue text](labs.sense-studios.com/threebody/index.html)
+
+really, just click it.
+
+- - - -
+
+__Before you read this:__
+
+NOTE: This won't make a lot of Sense unless you've read the Three-Body Experiment by Liu Cixin. The following contains _SPOILERS_
 
 ### Here is the part without spoiling to much.
 
@@ -20,4 +32,6 @@ each other can not be predicted.
 
 > In physics and classical mechanics, the three-body problem is the problem of taking an initial set of data that specifies the positions, masses, and velocities of three bodies for some particular point in time and then determining the motions of the three bodies, in accordance with Newton's laws of motion and of universal gravitation which are the laws of classical mechanics. The three-body problem is a special case of the n-body problem.
 
-You are standing on a planet, encircling three stars dancing in a Three-body-problem. Not unlike Alpha Centauri
+### Here is the part that spoils everything
+
+In the book there is a civilization, or rather a series of civilizations that live on a this planet.
