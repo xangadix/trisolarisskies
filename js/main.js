@@ -232,15 +232,25 @@ var renderStatus = function() {
 
   html2 += "<br>"
   html2 += "<br><div class='star header'>Status</div>"
+
   if ( s1 < 300 || s2 < 300 || s3 < 75 ) {
     html2 += "<h1>Planet Burning!<br><small> " + t_yrs + "\t Years x1000</small></h1>"
+    //$('.planet_overlay_chaotic').fadeOut('slow')
+    $('.planet_overlay_burning').fadeIn('fast')
+    $('.planet_overlay_stable').fadeOut('fast')
     if (yrs != 0 ) civs.push(yrs)
     yrs = 0
   } else if ( avg < 1400 ) {
     html2 += "<h1>Stable Era.<br><small> " + t_yrs + "\t Years x1000</small></h1>"
+    //$('.planet_overlay_chaotic').fadeOut('slow')
+    $('.planet_overlay_burning').fadeOut('slow')
+    $('.planet_overlay_stable').fadeIn('slow')
     yrs += 1
   } else {
     html2 += "<h1>Chaotic Era.<br><small> " + t_yrs + "\t Years x1000</small></h1>"
+    //$('.planet_overlay_chaotic').fadeIn()
+    $('.planet_overlay_burning').fadeOut('slow')
+    $('.planet_overlay_stable').fadeOut('slow')
     //yrs
   }
 

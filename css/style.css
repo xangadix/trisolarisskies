@@ -60,12 +60,23 @@ body {
 }
 
 .planet_overlay {
-  background-image: url(../img/planetary.png);
   position: absolute;
   width: 100vw;
   height: 100vh;
   background-size: 100% 100%;
   z-index: 9;
+}
+
+.planet_overlay_chaotic {
+  background-image: url(../img/planetary_2_chaotic.png);
+}
+
+.planet_overlay_burning {
+  background-image: url(../img/planetary_2_burning.png);
+}
+
+.planet_overlay_stable {
+  background-image: url(../img/planetary_2_stable.png);
 }
 
 .header {
