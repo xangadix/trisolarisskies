@@ -58,10 +58,11 @@ but when the suns return _civilization_ can continue. When the suns are too clos
 is lost and life and civilization have to start anew.
 
 Life always finds a way, and some evolutionary traits will manage to survive even a burning planet.
-The end goal is to reach "future technology 10", although you can't really do anything to speed up the process. It's an
-interesting screen saver at best.
+The end goal is to reach some kind of "future technology 10". Which would enable you to get up and attack Earth
+Although you can't really do anything to speed up the process. It's an interesting screen saver at best.
 
 &nbsp;
 ##### roadmap
 
-I'd still like to add a way to set the initial state of the simulation, that way you can re-run a simulation that had any interesting  results. Also I'd like to have a way to easily export the current position of all the objects.
+* add classifications in which era you are, and how high you are on the evolutionary ladder
+* I'd still like to add a way to set the initial state of the simulation, that way you can re-run a simulation that had any interesting  results. Also I'd like to have a way to easily export the current position of all the objects.
