@@ -64,5 +64,5 @@ Although you can't really do anything to speed up the process. It's an interesti
 &nbsp;
 ##### roadmap
 
-* add classifications in which era you are, and how high you are on the evolutionary ladder
+* ~~add classifications in which era you are, and how high you are on the evolutionary ladder~~
 * I'd still like to add a way to set the initial state of the simulation, that way you can re-run a simulation that had any interesting  results. Also I'd like to have a way to easily export the current position of all the objects.
